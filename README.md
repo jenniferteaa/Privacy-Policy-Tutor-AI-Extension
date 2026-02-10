@@ -1,5 +1,3 @@
-# Privacy Policy – Tutor-AI Extension
-
 **Last updated:** Feb 2026
 
 Tutor-AI (“the extension”) is designed to provide contextual AI tutoring for users solving coding problems on supported websites.
